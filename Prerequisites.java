@@ -45,7 +45,6 @@ class Prerequisites {
         }
     }
 
-
     /**
      * Given a 2-d square matrix of order ‘n’, find the sum of elements of both diagonals and all boundaries elements. Boundary elements refer to the elements present on all the four boundaries of matrix.
      */
