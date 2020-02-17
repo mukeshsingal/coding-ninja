@@ -94,6 +94,7 @@ class Prerequisites {
      * ou have to tell how many groups will be formed in each combination and how many villagers will be left 
      * without the complete group of 10 peoples.
      */
+    
     void PRE4() {
         try {
             BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
